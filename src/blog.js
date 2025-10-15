@@ -31,6 +31,7 @@ if (blogContainer) {
         date.className = "blog-date";
         date.textContent = blog.date;
         var image = document.createElement("img");
+        image.className = "blog-image";
         image.src = blog.image;
         image.alt = blog.imageAlt;
         var desc = document.createElement("p");
