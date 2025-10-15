@@ -47,6 +47,8 @@ if (blogContainer) {
     const image = document.createElement("img");
     image.src = blog.image;
     image.alt = blog.imageAlt;
+    image.className = "blog-image"; 
+
 
     const desc = document.createElement("p");
     desc.textContent = blog.description;
