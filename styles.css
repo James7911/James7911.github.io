@@ -89,3 +89,12 @@ p {
   font-family: "Georgia", serif;
   text-align: justify;
 }
+
+.blog-image {
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin: 10px 0;
+  border-radius: 5px; /* Optional: soft corners */
+}
+
