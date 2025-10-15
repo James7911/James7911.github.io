@@ -1,19 +1,19 @@
 var blogs = [
     {
-        title: "Getting Started with TypeScript",
-        date: "October 13, 2025",
-        description: "A beginner-friendly guide to TypeScript and why you should learn it.",
-        image: "./images/ts-guide.png",
-        imageAlt: "TypeScript Guide",
-        slug: "getting-started-with-typescript"
+        title: "Green Computing",
+        date: "October 15, 2025",
+        description: "What is green computing and why it matters for a sustainable future.",
+        image: "./images/green_computing.jpg",
+        imageAlt: "Green Computing image",
+        slug: "green-computing"
     },
     {
-        title: "Building Projects with Vanilla JavaScript",
-        date: "October 10, 2025",
-        description: "Why starting with plain JavaScript makes you a better developer.",
-        image: "./images/js-projects.png",
-        imageAlt: "JavaScript Projects",
-        slug: "building-projects-with-vanilla-js"
+        title: "The Importance of a Good Password",
+        date: "October 15, 2025",
+        description: "Why strong passwords protect you from security breaches and data loss.",
+        image: "./images/password.png",
+        imageAlt: "Password image",
+        slug: "importance-of-a-good-password"
     }
 ];
 // DOM manipulation
